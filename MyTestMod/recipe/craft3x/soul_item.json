@@ -1,0 +1,19 @@
+
+{
+  "config": "Craft3x",
+  "results": [
+    {
+      "id": "soul_item",
+      "stackSize": 1
+    }
+  ],
+  "pattern": [
+    "BBB",
+    "BAB",
+    "BBB"
+  ],
+  "elements": [
+    [ "A", "coal" ],
+    [ "B", "gunpowder" ]
+  ]
+}

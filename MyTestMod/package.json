@@ -17,6 +17,8 @@
     }
   ],
   "objectFolders": {
-
+    "items": "items",
+    "recipe_config": "recipe_config",
+    "recipes": "recipes"
   }
 }

@@ -1,0 +1,8 @@
+
+{
+  "soul_item": {
+    "type": "MATERIALS",
+    "iconTextureData": "soul_item_icon.png",
+    "group": "GROUP_FOOD"
+  }
+}
