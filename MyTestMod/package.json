@@ -1,0 +1,22 @@
+{
+  "id" : "TestMod",
+  "displayName" : "MyTestMod",
+  "version" : "1.0.0",
+  "description": "The Test Mod of TerraCraft.",
+  "tips": "The Test Mod of TerraCraft.",
+  "gameVersion" : "Obsidian Edition",
+  "useSaver": true,
+  "authors" : [
+    "KitsuneKann"
+  ],
+  "credits": "",
+  "website": [
+    {
+      "title": "github",
+      "url": ""
+    }
+  ],
+  "objectFolders": {
+
+  }
+}
